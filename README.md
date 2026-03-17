@@ -91,10 +91,14 @@ User Input → FastAPI → ML Model → SHAP → Retention Engine → Dashboard
 
 ---
 
-## 📸 Screenshots
+## 📸 Sample Outputs
 
 ### 🔹 Dashboard Overview
-![Dashboard](./screenshots/dashboard.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7dc97759-2b4d-42be-93f6-b968e1217bcc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46c87a0d-1ffe-480e-b113-6efc5a3ae939" />
+
+<img width="701" height="853" alt="image" src="https://github.com/user-attachments/assets/8ca6143a-2c5b-4a1a-87cd-dfc56df69d21" />
+<img width="710" height="403" alt="image" src="https://github.com/user-attachments/assets/be4a34d2-c68f-43a2-b9ec-5ba9f968f8c6" />
 
 ### 🔹 Churn Prediction Output
 ![Prediction](./screenshots/prediction.png)
@@ -114,22 +118,16 @@ User Input → FastAPI → ML Model → SHAP → Retention Engine → Dashboard
 git clone https://github.com/sari-ka/churn-prediction.git
 cd churn-prediction
 
-**### 2. Setup backend**
+2. Setup backend
 cd backend
 pip install -r requirements.txt
 uvicorn backend_api:app --reload
 
-**### 3. Setup frontend**
+3. Setup frontend
 cd churn-dashboard
 npm install
 npm run dev
 
-Sample Outputs
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7dc97759-2b4d-42be-93f6-b968e1217bcc" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46c87a0d-1ffe-480e-b113-6efc5a3ae939" />
-
-<img width="701" height="853" alt="image" src="https://github.com/user-attachments/assets/8ca6143a-2c5b-4a1a-87cd-dfc56df69d21" />
-<img width="710" height="403" alt="image" src="https://github.com/user-attachments/assets/be4a34d2-c68f-43a2-b9ec-5ba9f968f8c6" />
 
 
 
