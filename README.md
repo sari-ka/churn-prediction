@@ -93,21 +93,14 @@ User Input → FastAPI → ML Model → SHAP → Retention Engine → Dashboard
 
 ## 📸 Sample Outputs
 
-### 🔹 Dashboard Overview
+### 🔹 Single Customer Churn Prediction Output
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7dc97759-2b4d-42be-93f6-b968e1217bcc" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46c87a0d-1ffe-480e-b113-6efc5a3ae939" />
 
+### 🔹 Batch of  Customers Churn Prediction Output
 <img width="701" height="853" alt="image" src="https://github.com/user-attachments/assets/8ca6143a-2c5b-4a1a-87cd-dfc56df69d21" />
 <img width="710" height="403" alt="image" src="https://github.com/user-attachments/assets/be4a34d2-c68f-43a2-b9ec-5ba9f968f8c6" />
 
-### 🔹 Churn Prediction Output
-![Prediction](./screenshots/prediction.png)
-
-### 🔹 Feature Importance (SHAP)
-![SHAP](./screenshots/shap.png)
-
-### 🔹 Retention Strategies
-![Strategies](./screenshots/strategies.png)
 
 ---
 
