@@ -115,7 +115,6 @@ cd churn-prediction
 ### 2. Setup backend
 ```bash
 cd backend
-pip install -r requirements.txt
 uvicorn backend_api:app --reload
 ```
 
