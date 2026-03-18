@@ -110,17 +110,21 @@ User Input → FastAPI → ML Model → SHAP → Retention Engine → Dashboard
 ```bash
 git clone https://github.com/sari-ka/churn-prediction.git
 cd churn-prediction
+```
 
-2. Setup backend
+### 2. Setup backend
+```bash
 cd backend
 pip install -r requirements.txt
 uvicorn backend_api:app --reload
+```
 
-3. Setup frontend
+### 3. Setup frontend
+```bash
 cd churn-dashboard
 npm install
 npm run dev
-
+```
 
 
 
