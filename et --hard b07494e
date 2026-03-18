@@ -1,0 +1,12 @@
+[33mf149072[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m modified frontend
+[33mfa89c9f[m Fix: safe model loading for deployment
+[33mdb73e43[m Fix sklearn version compatibility
+[33m17d7786[m Fix sklearn version compatibility
+[33mceb8f2a[m Updated requirements for deployment
+[33maf3da93[m Cleaned requirements for deployment
+[33mb07494e[m Update setup instructions in README.md
+[33m60c979a[m Update README with new sample outputs and sections
+[33me51a461[m Revise README for clarity and update images
+[33m6d6b6b5[m Revise README for project overview and setup instructions
+[33m61fbbe0[m Initial commit - churn prediction system
+[33m64a4e82[m Initial commit
